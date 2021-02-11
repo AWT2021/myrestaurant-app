@@ -1,0 +1,11 @@
+.cropped {
+    max-height: 250px;
+    overflow: hidden;
+    zoom: 1;
+
+}
+.food-image {
+    display: block;
+    min-width: 100%;
+    
+}
