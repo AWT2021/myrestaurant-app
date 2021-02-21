@@ -14,28 +14,28 @@ export const DISHES =
                     rating: 5,
                     comment: 'This is the best and weirdest pizza on planet Earth!',
                     author: 'Fake reviewer from Texas',
-                    date: '2021-02-12T12:57:28.556094Z'
+                    date: '2020-06-02T00:00:00.000Z'
                 },
                 {
                     id: 1,
                     rating: 2,
                     comment: 'The combination was just too weird for me. I\'ll stick to traditional Italian pizzas in the future',
                     author: 'Fake reviewer from Ghent',
-                    date: '2021-02-18T17:52:23.556094Z'
+                    date: '2018-03-05T00:00:00.000Z'
                 },
                 {
                     id: 2,
                     rating: 4,
                     comment: 'Good taste, but could have been spicier. I like it hot!',
                     author: 'Fake reviewer from Lagos',
-                    date: '2020-12-18T121:20:23.556094Z'
+                    date: '2021-01-22T00:00:00.000Z'
                 },
                 {
                     id: 3,
                     rating: 5,
                     comment: 'Love It!',
                     author: 'Fake reviewer from Herning',
-                    date: '2018-11-05T21:02:23.556094Z'
+                    date: '2019-12-26T00:00:00.000Z'
                 }
             ]
         },
@@ -53,28 +53,28 @@ export const DISHES =
                     rating: 5,
                     comment: 'The best tacos I have tasted outside México',
                     author: 'Fake reviewer from Guadalajara',
-                    date: '2021-02-12T12:57:28.556094Z'
+                    date: '2020-06-02T00:00:00.000Z'
                 },
                 {
                     id: 1,
                     rating: 1,
                     comment: 'What a soggy mess. I like my tacos in hard shells, the real American style.',
                     author: 'Fake reviewer from Georgia',
-                    date: '2021-02-18T17:52:23.556094Z'
+                    date: '2020-06-02T00:00:00.000Z'
                 },
                 {
                     id: 2,
                     rating: 5,
                     comment: 'Heaven in a tortilla',
                     author: 'Fake reviewer from Aarhus',
-                    date: '2020-12-18T121:20:23.556094Z'
+                    date: '2020-06-02T00:00:00.000Z'
                 },
                 {
                     id: 3,
                     rating: 5,
                     comment: 'Only missing a cold Corona',
                     author: 'Fake reviewer from Lahti',
-                    date: '2018-11-05T21:02:23.556094Z'
+                    date: '2020-06-02T00:00:00.000Z'
                 }
             ]
 
@@ -93,28 +93,29 @@ export const DISHES =
                     rating: 4,
                     comment: 'Chocolate and spices really do go well together.',
                     author: 'Fake reviewer from Wassenberg',
-                    date: '2021-02-12T12:57:28.556094Z'
+                    date: '2021-02-12T00:00:00.000Z'
                 },
                 {
                     id: 1,
                     rating: 5,
                     comment: 'I wasn\'t sure at first, but wow! I could eat this dish every week',
                     author: 'Fake reviewer from Terrassa',
-                    date: '2021-02-18T17:52:23.556094Z'
+                    date: '2021-02-18T00:00:00.000Z'
                 },
                 {
                     id: 2,
                     rating: 1,
                     comment: 'No, no, no, no... This just was too weird',
                     author: 'Fake reviewer from Krasnoyarsk',
-                    date: '2020-12-18T121:20:23.556094Z'
+                    date: '2020-12-18T00:00:00.000Z'
                 },
                 {
                     id: 3,
                     rating: 4,
                     comment: 'Good taste, but could have done with some more rice.',
                     author: 'Fake reviewer from Molepolole',
-                    date: '2018-11-05T21:02:23.556094Z'
+                    
+                    date: '2018-11-05T00:00:00.000Z'
                 }
             ]
 
@@ -133,28 +134,28 @@ export const DISHES =
                     rating: 4,
                     comment: 'Not the Cheesecake Factory, but not bad at all',
                     author: 'Fake reviewer from Boston',
-                    date: '2021-02-12T12:57:28.556094Z'
+                    date: '2021-02-12T00:00:00.000Z'
                 },
                 {
                     id: 1,
                     rating: 2,
                     comment: 'This cheesecake was too soggy. The crust was anything but crusty',
                     author: 'Fake reviewer from Viborg',
-                    date: '2021-02-18T17:52:23.556094Z'
+                    date: '2021-02-18T00:00:00.000Z'
                 },
                 {
                     id: 2,
                     rating: 4,
                     comment: 'Good cheesecake.',
                     author: 'Fake reviewer from Toulouse',
-                    date: '2020-12-18T121:20:23.556094Z'
+                    date: '2020-12-18T00:00:00.000Z'
                 },
                 {
                     id: 3,
                     rating: 5,
                     comment: 'Loved it so much I had 2 slices!',
                     author: 'Fake reviewer from Porto',
-                    date: '2018-11-05T21:02:23.556094Z'
+                    date: '2018-11-05T00:00:00.000Z'
                 }
             ]
         }
