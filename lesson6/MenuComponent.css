@@ -1,0 +1,22 @@
+.cropped {
+    max-height: 250px;
+    overflow: hidden;
+    zoom: 1;
+
+}
+.food-image {
+    display: block;
+    min-width: 100%;
+    
+}
+
+.imgover {
+    color: whitesmoke;
+    background-color: rgba(0, 27, 12, 0.3);
+    text-align: center;
+}
+
+
+div.imgover.card-title.h5 {
+    font-size: 2rem;
+}
